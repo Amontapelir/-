@@ -1,0 +1,5 @@
+length = 10
+width = 8
+
+s = length * width
+print(s)
